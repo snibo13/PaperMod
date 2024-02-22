@@ -18,4 +18,5 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
     background-color: red;
     width: 225px;
     height: 225px;
+    object-fit: cover;
 }
